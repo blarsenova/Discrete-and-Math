@@ -1,2 +1,2 @@
 # Discrete-and-Math
-Hw's
+This repo contains homework solutions for Math problems in subfolders divided weekly
